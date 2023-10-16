@@ -1,0 +1,11 @@
+# Visual Studio'e özgü dosyaları engelle
+.vscode/
+*.suo
+*.user
+*.sln.docstates
+*.sln
+*.csproj
+
+# Bin ve obj klasörlerini engelle
+bin/
+obj/
